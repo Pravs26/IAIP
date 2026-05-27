@@ -23,7 +23,7 @@ img_height = 224
 img_width = 224
 
 # Title
-st.title("🌸 Real-Time Flower Classifier")
+st.title(" Real-Time Flower Classifier")
 
 st.write(
     "Upload a flower image and the AI model "
