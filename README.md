@@ -127,7 +127,7 @@ https://github.com/Pravs26/IAIP.git
 www.linkedin.com/in/sai-pravallika-kovvuri-9b289b376
 
 ## Deployment Link
-[Add Deployment Link Here]
+https://iaip-8gzmmiprbcphdcttyqc4cb.streamlit.app/
 
 ---
 
